@@ -30,4 +30,8 @@ Reflex agents act on the basis of current information, they ignore history.
 
 Model-based agents use a set of historical data and/or information to perceive the environment. 
 
-Goal-based agents
+Goal-based agents build upon the state of an environment and have a goal added to the environment. 
+
+Utility-based agents go one step further than goal-based agents by adding a comparison between the goal and non-goal state. This measures that "amount of goal" the agent acts upon.
+
+A learning agent is the ideal state for state of the art AI. A learning agent operates in an unknown environment and becomes more competent as it acts upon the environment. 
