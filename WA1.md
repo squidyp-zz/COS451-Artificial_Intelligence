@@ -15,7 +15,7 @@ To what extent are the following computer systems instances of artificial intell
 
 Exercise 1.14
 
-Examine  the  AI literature  to  discover  whether the  following  tasks  can  currently  besolved by computers:<br>
+Examine  the  AI literature  to  discover  whether the  following  tasks  can  currently  be solved by computers:<br>
 a. Playing a decent game of table tennis (Ping-Pong).<br>
 b.  Driving in the center of Cairo, Egypt.<br>
 c.  Driving in Victorville, California.<br>
